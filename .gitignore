@@ -1,11 +1,11 @@
-# Python
+
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Environment
+
 .env
 
-# SSL certs
+
 *.pem
